@@ -1,0 +1,11 @@
+Product_ID,Product_Name,Category,Subcategory,Cost_Price,Supplier
+P101,Laptop Pro 14",Electronics,Laptops,350,TechSupply Inc
+P102,Monitor 24" 4K,Electronics,Monitors,800,DisplayTech Corp
+P103,Wireless Mouse,Accessories,Input Devices,60,AccessoryWorld
+P104,USB-C Cable 2m,Accessories,Cables,20,CableMasters
+P105,Mechanical Keyboard,Accessories,Input Devices,500,KeyTech
+P106,External SSD 1TB,Storage,Drives,250,StoragePro
+P107,Office Chair Pro,Furniture,Seating,1200,ErgoFurnish
+P108,Standing Desk,Furniture,Desks,1500,ErgoFurnish
+P109,Webcam 4K,Electronics,Peripherals,120,VisualTech
+P110,Docking Station,Electronics,Docks,2000,ConnectPro

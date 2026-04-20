@@ -1,0 +1,25 @@
+Customer_ID,Customer_Name,Region,Segment,Account_Type
+C001,ABC Corporation,North,Enterprise,Platinum
+C002,XYZ Limited,South,SMB,Gold
+C003,Global Tech Solutions,East,Enterprise,Platinum
+C004,Local Store Mart,West,Retail,Silver
+C005,City Traders Group,North,SMB,Gold
+C006,Metro Enterprises,West,Enterprise,Platinum
+C007,Sunrise Industries,South,Manufacturing,Silver
+C008,Pacific Imports,East,Retail,Gold
+C009,Delta Trading Co,North,SMB,Bronze
+C010,Omega Logistics,West,Enterprise,Platinum
+C011,Sigma Chemicals,South,Manufacturing,Silver
+C012,Alpha Retail Chain,East,Retail,Gold
+C013,Beta Technologies,North,Enterprise,Platinum
+C014,Gamma Distributors,West,SMB,Silver
+C015,Delta Electronics,South,Manufacturing,Gold
+C016,Epsilon Pharma,East,Healthcare,Platinum
+C017,Zeta Construction,North,Construction,Silver
+C018,Eta Automotives,West,Automotive,Gold
+C019,Theta Textiles,South,Manufacturing,Bronze
+C020,Iota Foods,East,Retail,Silver
+C021,Kappa Consulting,North,Services,Gold
+C022,Lambda Realty,West,Real Estate,Platinum
+C023,Mu Enterprises,South,SMB,Silver
+C024,Nu Global,East,Enterprise,Platinum
